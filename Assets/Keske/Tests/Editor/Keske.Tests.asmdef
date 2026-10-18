@@ -1,0 +1,14 @@
+{
+  "name": "Keske.Tests",
+  "rootNamespace": "Keske.Tests",
+  "references": [
+    "Keske.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

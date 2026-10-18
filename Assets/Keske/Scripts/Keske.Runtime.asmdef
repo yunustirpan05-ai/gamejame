@@ -1,0 +1,8 @@
+{
+  "name": "Keske.Runtime",
+  "rootNamespace": "Keske",
+  "references": [
+    "Unity.InputSystem"
+  ],
+  "autoReferenced": true
+}
